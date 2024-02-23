@@ -1,0 +1,35 @@
+# Compiled classes
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# IDE fiels
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Build directiores
+build/
+out/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Log files
+*.log
+
+# Other
+*.pid
+*.pid.lock
+*.seed
+*.tmp
+*.bak
+*.swp
+*.hprof
